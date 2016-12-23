@@ -1,0 +1,19 @@
+{
+  "name": "react-app",
+  "version": "0.0.1",
+  "description": "React App",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoorvakorde/react-app.git"
+  },
+  "keywords": [
+    "react",
+    "app"
+  ],
+  "author": "Apoorva Korde <apoorvakorde@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/apoorvakorde/react-app/issues"
+  },
+  "homepage": "https://github.com/apoorvakorde/react-app#readme"
+}
